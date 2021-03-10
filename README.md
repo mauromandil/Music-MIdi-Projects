@@ -6,5 +6,7 @@ It should be easy to learn the chords in this structure for every starting note,
 This project allows you to play perfect 1-4-5 major chords, starting on every note.
 You can control the 1 note by using the potenciometer.
 
+Working with Arduino UNO and MIDI.h library by François Best
+
 
 BUGS: use the pot before starting play. It works better if you dont touch it while playing.
